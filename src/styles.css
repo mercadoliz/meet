@@ -1,0 +1,44 @@
+.info-alert {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.warning-alert {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.error-alert {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.offline-alert {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.showDetails {
+  background-color: seashell;
+  color: #121a52;
+}
+
+/* .city {
+  margin-top: 0;
+}
+
+.suggestions {
+  margin-top: 0;
+} */
+
+.numberOfEvents {
+  margin-bottom: 35px;
+}
